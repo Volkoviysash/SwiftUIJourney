@@ -11,7 +11,7 @@ import SwiftUI
 struct PersonalPlaygroundApp: App {
     var body: some Scene {
         WindowGroup {
-            CDRelationships()
+            PhotoControllerView()
         }
     }
 }

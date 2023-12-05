@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AB09270B-39D5-4E8E-81AC-DEC5FD7AE642"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E9586AA-305D-46E1-804D-3F622E7E5D81"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/BBMetalImage/BBMetalImage/BBMetalImage/BBMetalBaseFilter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "_BBMetalFilterCompletionItem"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF718AC2-17FF-4A59-B748-08E831E6B0AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/BBMetalImage/BBMetalImage/BBMetalImage/BBMetalBaseFilter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "BBMetalBaseFilter"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80494F5F-667A-4B71-8610-687F51F086BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/BBMetalImage/BBMetalImage/BBMetalImage/BBMetalBaseFilter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
+            landmarkName = "addCompletedHandler(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "80494F5F-667A-4B71-8610-687F51F086BA - 572838eb63be0487"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BBMetalImage.BBMetalBaseFilter.addCompletedHandler((BBMetalImage.BBMetalFilterCompletionInfo) -&gt; ()) -&gt; Swift.String"
+                  moduleName = "BBMetalImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandrvolkovich/Desktop/myfolder/SwiftUIJourney/Pods/BBMetalImage/BBMetalImage/BBMetalImage/BBMetalBaseFilter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "362">
+               </Location>
+               <Location
+                  uuid = "80494F5F-667A-4B71-8610-687F51F086BA - 572838eb63be0487"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BBMetalImage.BBMetalBaseFilter.addCompletedHandler((BBMetalImage.BBMetalFilterCompletionInfo) -&gt; ()) -&gt; Swift.String"
+                  moduleName = "BBMetalImage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandrvolkovich/Desktop/myfolder/SwiftUIJourney/Pods/BBMetalImage/BBMetalImage/BBMetalImage/BBMetalBaseFilter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "296">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "499A997F-9048-4A30-9AD8-FD31980F8472"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PersonalPlayground/PhotoController/PhotoControllerVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "process()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "499A997F-9048-4A30-9AD8-FD31980F8472 - 6c52d5ad896a8fb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (BBMetalImage.BBMetalFilterCompletionInfo) -&gt; () in closure #1 () -&gt; () in PersonalPlayground.PhotoControllerVM.process() -&gt; ()"
+                  moduleName = "PersonalPlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandrvolkovich/Desktop/myfolder/SwiftUIJourney/PersonalPlayground/PhotoController/PhotoControllerVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "499A997F-9048-4A30-9AD8-FD31980F8472 - 6c52d5ad896a8fb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (BBMetalImage.BBMetalFilterCompletionInfo) -&gt; () in closure #1 () -&gt; () in PersonalPlayground.PhotoControllerVM.process() -&gt; ()"
+                  moduleName = "PersonalPlayground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandrvolkovich/Desktop/myfolder/SwiftUIJourney/PersonalPlayground/PhotoController/PhotoControllerVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "320">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
